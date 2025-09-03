@@ -1,0 +1,52 @@
+body{
+    background: #ddd;
+    color: #333;
+}
+
+section h1{
+    font-style: italic;
+}
+
+.texto_22 {
+    font-size: 22px;
+}
+
+.texto_rojo {
+    color: red;
+}
+
+.texto_negrita{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    margin-top: 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #61a2db;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+li .active {
+  background-color: #084467;
+}
